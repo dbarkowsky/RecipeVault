@@ -1,7 +1,10 @@
 ---
 draft: "true"
+time: 
+portions: 
+tags:
+  - example
 ---
-
 ## Ingredients
 -  Start here
 ## Steps
