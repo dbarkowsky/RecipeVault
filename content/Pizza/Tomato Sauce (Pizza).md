@@ -11,3 +11,5 @@ Mix the following ingredients together.
 - oregano
 - parsley
 - basil
+- pepper
+- salt
