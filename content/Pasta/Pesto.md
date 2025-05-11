@@ -7,6 +7,7 @@ tags:
   - basil
   - pasta
   - italian
+  - vegetarian
 ---
 Produces 1 1/2 cups of pesto
 ## Ingredients

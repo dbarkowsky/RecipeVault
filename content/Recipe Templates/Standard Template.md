@@ -6,7 +6,7 @@ tags:
   - example
 ---
 ## Ingredients
--  Start here
+- Start here
 ## Steps
 1. Start here
 ## Notes

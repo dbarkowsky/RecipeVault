@@ -5,6 +5,7 @@ portions: "4"
 tags:
   - salad
   - italian
+  - vegetarian
 ---
 ## Ingredients
 - 400mL can of garbonzo beans (chick peas)

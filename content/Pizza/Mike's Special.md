@@ -3,8 +3,8 @@ draft: "false"
 tags:
   - pizza
   - ranch
-  - hotsauce
   - bacon
+  - hot-sauce
 ---
 This recipe shows the toppings and how to prepare them.
 For the pizza dough, use the [[Pizza Dough]] recipe.

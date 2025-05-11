@@ -3,9 +3,9 @@ draft: "false"
 time: 6 hours
 portions: "6"
 tags:
-  - slowcooker
   - soup
   - curry
+  - slow-cooker
 ---
 ## Ingredients
 ### First Phase
