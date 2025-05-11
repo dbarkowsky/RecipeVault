@@ -6,6 +6,7 @@ tags:
   - soup
   - curry
   - slow-cooker
+  - noodle
 ---
 ## Ingredients
 ### First Phase
