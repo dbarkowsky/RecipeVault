@@ -12,7 +12,7 @@ tags:
 - 100 mL milk
 - 1 tbsp salt
 ## Steps
-1. Preheat oven to 400C.
+1. Preheat oven to 400F.
 2. Combine water and sugar in a mixing bowl. Stir to dissolve.
 3. Sprinkle top of sugar water with yeast until mostly covered.
 4. Let yeast grow for 10 minutes before continuing.
