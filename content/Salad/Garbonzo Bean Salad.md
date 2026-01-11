@@ -7,6 +7,8 @@ tags:
   - italian
   - vegetarian
 ---
+**Portions:** 4
+**Time:** 15 mins
 ## Ingredients
 - 400mL can of garbonzo beans (chick peas)
 - 1/2 cup sunflower seeds

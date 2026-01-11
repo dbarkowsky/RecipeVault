@@ -5,6 +5,8 @@ portions: 12-16
 tags:
   - Easter
 ---
+**Portions:** 12-16
+**Time:** 50 mins
 ## Ingredients
 -  2 cups all-purpose flour
 - 4 eggs

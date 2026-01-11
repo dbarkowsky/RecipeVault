@@ -1,10 +1,10 @@
 ---
 draft: "true"
-time: 
-portions: 
 tags:
   - example
 ---
+**Portions:** 
+**Time:** 
 ## Ingredients
 - Start here
 ## Steps

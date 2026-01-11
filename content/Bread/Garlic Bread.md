@@ -6,6 +6,8 @@ tags:
   - bread
   - italian
 ---
+**Portions:** 8
+**Time:** 30 mins
 ## Ingredients
 - French bread
 - 1/2 cup margarine

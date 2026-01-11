@@ -5,6 +5,8 @@ portions: "4"
 tags:
   - sausage
 ---
+**Portions:** 4
+**Time:** 30 mins
 ## Ingredients
 - 2 shallots, diced
 - Italian sausage (or chorizo)

@@ -6,6 +6,8 @@ tags:
   - leftovers
   - turkey
 ---
+**Portions:** Depends on amount of turkey.
+**Time:** 15 mins
 ## Ingredients
 - 3 tbsp butter
 - 1/4 cup flour

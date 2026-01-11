@@ -6,6 +6,8 @@ tags:
   - noodle
   - vegetarian
 ---
+**Portions:** 4
+**Time:** 25 mins
 ## Ingredients
 - 4 servings of spaghetti
 - 6 tbsp of salted butter

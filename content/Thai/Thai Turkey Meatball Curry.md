@@ -7,6 +7,8 @@ tags:
   - thai
   - turkey
 ---
+**Portions:** 4
+**Time:** 1 hour
 ## Ingredients
 - 1 1/2 cups uncooked basmati rice
 ### Meatballs

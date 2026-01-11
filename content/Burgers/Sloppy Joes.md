@@ -6,6 +6,8 @@ tags:
   - comfort-food
   - hamburger
 ---
+**Portions:** 6
+**Time:** 25 mins
 ## Ingredients
 - 1 lb ground beef
 - 1 small yellow onion

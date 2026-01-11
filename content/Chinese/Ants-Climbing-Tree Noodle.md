@@ -7,6 +7,8 @@ tags:
   - szechuan
   - chinese
 ---
+**Portions:** 6
+**Time:** 30 mins
 ## Ingredients
 - 400g glass noodle (sweet potato)
 - 1lb ground pork

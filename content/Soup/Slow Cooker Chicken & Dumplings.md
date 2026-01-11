@@ -6,6 +6,8 @@ tags:
   - slow-cooker
   - chicken
 ---
+**Portions:** 4
+**Time:** 7 hours
 ## Ingredients
 ## Stew
 - 2-3 chicken breasts, roughly 1.5 lbs.

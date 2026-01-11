@@ -5,6 +5,8 @@ portions:
 tags:
   - Japanese
 ---
+**Portions:** 4
+**Time:** 15 mins
 ## Ingredients
 - 2 bundles of spinach
 - 3/4 cup toasted white sesame seeds

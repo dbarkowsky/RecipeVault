@@ -5,6 +5,8 @@ portions: 70 pieces
 tags:
   - Japanese
 ---
+**Portions:** 70 pieces
+**Time:** 2 hours
 ## Ingredients
 - Wrappers
 - 1 lb ground pork
