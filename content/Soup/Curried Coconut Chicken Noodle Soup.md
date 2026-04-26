@@ -8,8 +8,8 @@ tags:
   - slow-cooker
   - noodle
 ---
-**Portions:** 6
-**Time:** 6 hours
+- **Portions:** 6
+- **Time:** 6 hours
 ## Ingredients
 ### First Phase
 -  1 lb chicken breast

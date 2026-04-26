@@ -5,8 +5,8 @@ portions: "4"
 tags:
   - southern
 ---
-**Portions:** 4
-**Time:** 45 mins
+- **Portions:** 4
+- **Time:** 45 mins
 ## Ingredients
 - 1 cup flour
 - 1 cup cornmeal

@@ -7,8 +7,8 @@ tags:
 ---
 A recipe from our friend Katie.
 
-**Portions:** 16
-**Time:** 45 mins
+- **Portions:** 16
+- **Time:** 45 mins
 ## Ingredients
 ### Batter
 - 1/2 cup butter

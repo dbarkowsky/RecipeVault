@@ -3,8 +3,8 @@ draft: "true"
 tags:
   - example
 ---
-**Portions:** 
-**Time:** 
+- **Portions:** 
+- **Time:** 
 ## Ingredients
 - Start here
 ## Steps

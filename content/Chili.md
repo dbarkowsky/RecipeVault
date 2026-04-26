@@ -5,8 +5,8 @@ portions: "8"
 tags:
   - comfort-food
 ---
-**Portions:** 8
-**Time:** 2 hours
+- **Portions:** 8
+- **Time:** 2 hours
 ## Ingredients
 - 1 lb. ground beef
 - 1 yellow onion

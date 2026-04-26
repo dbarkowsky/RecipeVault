@@ -5,8 +5,8 @@ portions:
 tags:
   - bread
 ---
-**Portions:** 1 loaf pan
-**Time:** 1 hour
+- **Portions:** 1 loaf pan
+- **Time:** 1 hour
 ## Ingredients
 - 1 cup sugar
 - 1 1/4 cup flour

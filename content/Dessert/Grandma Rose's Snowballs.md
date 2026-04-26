@@ -5,8 +5,8 @@ portions:
 tags:
   - family-recipe
 ---
-**Portions:** 20 balls
-**Time:** 20 mins
+- **Portions:** 20 balls
+- **Time:** 20 mins
 ## Ingredients
 - 1 C butter
 - 1/4 C sugar

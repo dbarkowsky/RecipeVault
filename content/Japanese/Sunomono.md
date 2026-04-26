@@ -7,8 +7,8 @@ tags:
   - salad
   - noodles
 ---
-**Portions:** 4
-**Time:** 15 mins
+- **Portions:** 4
+- **Time:** 15 mins
 ## Ingredients
 - 1 cup rice vinegar
 - 1/4 cup white sugar

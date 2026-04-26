@@ -5,8 +5,8 @@ portions: "4"
 tags:
   - noodle
 ---
-**Portions:** 4
-**Time:** 30 mins
+- **Portions:** 4
+- **Time:** 30 mins
 ## Ingredients
 - egg noodles, extra broad, 340g
 - 1 lb beef. This can be a steak cut or anything that doesn't require too much cooking to tenderize. I've even uses rouleden. The important thing is that you can get it nice and tender by the end.

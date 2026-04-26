@@ -6,8 +6,8 @@ tags:
   - hamburger
   - vegetarian
 ---
-**Portions:** 6
-**Time:** 30 mins
+- **Portions:** 6
+- **Time:** 30 mins
 ## Ingredients
 - 1 medium can black beans (500g)
 - 1/4 cup quinoa

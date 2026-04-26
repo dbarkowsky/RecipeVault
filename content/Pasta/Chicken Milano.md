@@ -7,8 +7,8 @@ tags:
   - chicken
   - cream
 ---
-**Portions:** 4
-**Time:** 25 mins
+- **Portions:** 4
+- **Time:** 25 mins
 ## Ingredients
 - 2 tbsp butter
 - 5 cloves garlic

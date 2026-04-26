@@ -9,8 +9,9 @@ tags:
   - italian
   - vegetarian
 ---
-**Portions:** 12-16
-**Time:** 15 mins
+- **Portions:** 12-16
+- **Time:** 15 mins
+
 Produces 1 1/2 cups of pesto
 ## Ingredients
 - 2 cups (packed) fresh basil

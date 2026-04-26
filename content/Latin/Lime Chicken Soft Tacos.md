@@ -4,8 +4,8 @@ tags:
   - taco
   - quick
 ---
-**Portions:** 3-4
-**Time:** 25 mins
+- **Portions:** 3-4
+- **Time:** 25 mins
 ## Ingredients
 - Small, soft taco tortillas (ideally flour)
 - 2 chicken breasts

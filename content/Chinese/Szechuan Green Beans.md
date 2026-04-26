@@ -7,8 +7,8 @@ tags:
   - chinese
   - vegetarian
 ---
-**Portions:** 4
-**Time:** 20 mins
+- **Portions:** 4
+- **Time:** 20 mins
 ## Ingredients
 - 200-300g green beans
 - 3 large cloves of garlic, diced

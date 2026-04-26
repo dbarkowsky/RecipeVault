@@ -6,8 +6,8 @@ tags:
   - pasta
   - italian
 ---
-**Portions:** 6
-**Time:** 30 mins
+- **Portions:** 6
+- **Time:** 30 mins
 
 A simple, non-traditional comfort food.
 Most ingredients will vary with your tastes.

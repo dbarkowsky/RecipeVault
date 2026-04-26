@@ -6,8 +6,8 @@ tags:
   - pasta
   - italian
 ---
-**Portions:** 4
-**Time:** 30 mins
+- **Portions:** 4
+- **Time:** 30 mins
 ## Ingredients
 - olive oil
 - 1 cup orzo

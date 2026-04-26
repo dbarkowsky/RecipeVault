@@ -7,8 +7,8 @@ tags:
 ---
 A pie recipe courtesy of my mom. The crust recipe was apparently from a Tender Flakes shortening box, but I prefer to use butter.
 
-**Portions:** 12
-**Time:** 90 mins
+- **Portions:** 12
+- **Time:** 90 mins
 ## Ingredients
 ### Crust
 Note: This makes both top and bottom of a pie crust. Half it if you only want the bottom.

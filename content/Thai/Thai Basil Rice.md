@@ -4,8 +4,8 @@ tags:
   - thai
   - rice
 ---
-**Portions:** 4
-**Time:** 35 mins
+- **Portions:** 4
+- **Time:** 35 mins
 ## Ingredients
 - 1 1/2 cups uncooked rice. Your choice of type, but we usually use a Japanese short-grain.
 - 1 lb. protein (see notes)

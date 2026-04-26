@@ -5,8 +5,8 @@ portions: "5"
 tags:
   - pasta
 ---
-**Portions:** 5
-**Time:** 30-40 mins
+- **Portions:** 5
+- **Time:** 30-40 mins
 ## Ingredients
 - 100g Salami, chunked into 1cm cubes
 - 1lb chicken breast

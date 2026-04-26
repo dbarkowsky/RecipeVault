@@ -5,8 +5,8 @@ tags:
   - chicken
   - egg
 ---
-**Portions:** 4
-**Time:** 40 mins
+- **Portions:** 4
+- **Time:** 40 mins
 ## Ingredients
 - 2 cups uncooked rice (short grain)
 - 2 chicken breasts, diced into 2cm cubes

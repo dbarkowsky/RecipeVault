@@ -5,8 +5,8 @@ portions: "6"
 tags:
   - salad
 ---
-**Portions:** 6
-**Time:** 10 mins
+- **Portions:** 6
+- **Time:** 10 mins
 ## Ingredients
 -  1/2 cup mayo (or Miracle Whip)
 - 2 tsp dijonnaise

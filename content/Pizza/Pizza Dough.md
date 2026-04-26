@@ -5,8 +5,8 @@ portions: "4"
 tags:
   - pizza
 ---
-**Portions:** 4
-**Time:** 30-40 mins
+- **Portions:** 4
+- **Time:** 30-40 mins
 ## Ingredients
 - 1 cup warm water
 - 1 tbsp sugar
